@@ -1,4 +1,4 @@
-package jzoffer.cap1;
+package jzoffer;
 
 /**
  *  二维数组中的查找
@@ -9,7 +9,7 @@ package jzoffer.cap1;
  * @author ZhaoJun
  * @date 2019/7/25 17:55
  */
-public class Solution {
+public class Solution1 {
 
     public boolean Find(int target, int[][] array) {
         int rowCount = array.length;
